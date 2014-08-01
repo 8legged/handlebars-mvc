@@ -6,7 +6,7 @@ This is not a great example, it needs some more work!
 
 - Use `npm -g install node-static` if you haven't already
 - then `static` from the main directory.
-- Vist [http://127.0.0.1/view.html](http://127.0.0.1/view.html)
+- Vist [http://127.0.0.1:8080/view.html](http://127.0.0.1:8080/view.html)
 
 ## TODO
 
